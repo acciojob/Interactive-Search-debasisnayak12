@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.search {
+    margin:20px;
+	padding:10px;
+}
+.input {
+   padding: 8px;
+   font-size: 16px;
+   border: 1px solid #ccc;
+   outline:none;
+   border-radius: 4px;
+}
+
+.btn {
+  padding: 8px 12px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
